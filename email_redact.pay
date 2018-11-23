@@ -4,7 +4,7 @@ cat myfile
 ?email=test1@fake.some2.org
 ?email=test1@fake.some3.info
 ?email=test1@some4.net
-"""
+""" 
 
 
 In [147]: import re
